@@ -7,7 +7,6 @@
 }
 
 #poster {
-
   width: 900%;
 }
 
@@ -24,6 +23,10 @@
   color: black;
   -webkit-text-stroke: .5px white;
 
+}
+
+.picture {
+  padding-right: 30px;
 }
 
 .time {
