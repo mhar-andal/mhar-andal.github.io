@@ -6,13 +6,14 @@
 }
 
 #poster {
-  height: 60%;
-  width: 60%;
+  height: 80%;
+  width: 80%;
 }
 
 .main-content {
   margin-left: 130px;
   font-family: 'Permanent Marker', cursive;
+  height: 900px;
 }
 
 .artist-title {
