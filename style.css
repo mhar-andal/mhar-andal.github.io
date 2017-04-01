@@ -1,5 +1,6 @@
 .logo-header {
   font-size:58px;
+  padding-top: 70px;
   color: #00FF00;
   font-family: 'Press Start 2P', cursive;
   -webkit-text-stroke: 1px black;
@@ -12,6 +13,7 @@
 
 .main-content {
   margin-left: 130px;
+  padding-top: 80px;
   font-family: 'Permanent Marker', cursive;
   height: 900px;
 }
