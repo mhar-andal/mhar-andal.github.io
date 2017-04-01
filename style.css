@@ -1,0 +1,39 @@
+.logo-header {
+  font-size:58px;
+  color: #00FF00;
+  font-family: 'Press Start 2P', cursive;
+  -webkit-text-stroke: 1px black;
+}
+
+#poster {
+  height: 60%;
+  width: 60%;
+}
+
+.main-content {
+  margin-left: 130px;
+  font-family: 'Permanent Marker', cursive;
+}
+
+.artist-title {
+  font-size: 50px;
+  padding-right: 30px;
+  color: black;
+  -webkit-text-stroke: .5px white;
+
+}
+
+.time {
+  font-size: 40px;
+  color: white;
+  -webkit-text-stroke: 1px black;
+
+}
+
+.show-container {
+  padding-bottom: 40px;
+}
+
+.big-container {
+  padding-top: 40px;
+}
